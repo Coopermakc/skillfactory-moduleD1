@@ -12,7 +12,7 @@ auth_params = {
 
 base_url = "https://api.trello.com/1/{}"
 
-board_id = "sEc6tMi2"
+board_id = ""  # вставьте  id доски
 
 def get_data():
     #получает данные доски
